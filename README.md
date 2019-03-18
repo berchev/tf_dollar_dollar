@@ -22,10 +22,10 @@ This repository is a guideline on HOW to use data source `template_file`, provis
 
     We can accomplish this using `$${HOME}`. 
 
-    `$${}` have an special meaning and after Terraform process the template, will replace `$${}` with `${}`
+    `$${}` have a special meaning and after Terraform process the template, will replace `$${}` with `${}`
     
     This is how is going to look our script after processing:
-    ![]()
+    ![](https://github.com/berchev/tf_dollar_dollar/blob/master/image/ouput.png)
 
 ## Files
 |Files | Description |
